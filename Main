@@ -1,7 +1,6 @@
 if game.PlaceId == 8884334497 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Mining%20Clicker%20Simulator"))()
-end
-
+    
 elseif game.PlaceId == 9498006165 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Tapping-Simulator"))()
 end
