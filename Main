@@ -3,4 +3,8 @@ if game.PlaceId == 8884334497 then
     
 elseif game.PlaceId == 9498006165 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Tapping-Simulator"))()
+    
+elseif game.PlaceId == 9498006165 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Tapping-Simulator"))()
+    
 end
