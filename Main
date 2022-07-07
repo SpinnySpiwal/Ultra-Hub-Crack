@@ -6,4 +6,8 @@ elseif game.PlaceId == 9498006165 then
     
 elseif game.PlaceId == 8876694280 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Strong%20Simulator%20X"))()
+    
+    elseif game.PlaceId == 8876694280 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Strong%20Simulator%20X"))()
+    
 end
