@@ -11,5 +11,5 @@ elseif game.PlaceId == 8876694280 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Pet-Posse"))()
     
         elseif game.PlaceId == 8962384769 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Pet-Posse"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Firework%20-Simulator"))()
 end
