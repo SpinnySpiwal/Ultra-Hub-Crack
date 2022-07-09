@@ -1,1 +1,4 @@
 
+if game.PlaceId == 8554378337 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Mining%20Clicker%20Simulator"))()
+end
