@@ -1,15 +1,18 @@
 if game.PlaceId == 8884334497 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Mining%20Clicker%20Simulator"))()
     
-elseif game.PlaceId == 9498006165 then
+    elseif game.PlaceId == 9498006165 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Tapping-Simulator"))()
     
-elseif game.PlaceId == 8876694280 then
+    elseif game.PlaceId == 8876694280 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Strong%20Simulator%20X"))()
     
     elseif game.PlaceId == 8303902695 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Pet-Posse"))()
     
-        elseif game.PlaceId == 8962384769 then
+    elseif game.PlaceId == 8962384769 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Firework%20-Simulator"))()
+    
+    elseif game.PlaceId == 8554378337 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Weapon-Fighting-Simulator"))()
 end
