@@ -18,4 +18,7 @@ if game.PlaceId == 8884334497 then
     
     elseif game.PlaceId == 9049840490 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Sonic-Speed-Simulator"))()
+    
+    elseif game.PlaceId == 7026949294 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Sonic-Speed-Simulator"))()
 end
