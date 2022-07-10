@@ -1,3 +1,1 @@
-if game.PlaceId == 9049840490 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Sonic-Speed-Simulator"))()
-end
+
