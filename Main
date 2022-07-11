@@ -21,4 +21,7 @@ if game.PlaceId == 8884334497 then
     
     elseif game.PlaceId == 7026949294 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Sword%20Simulator"))()
+    
+    elseif game.PlaceId == 9597319358 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Sword%20Simulator"))()
 end
