@@ -27,4 +27,7 @@ if game.PlaceId == 8884334497 then
     
     elseif game.PlaceId == 9551640993 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Mining-Simulator-2"))()
+    
+    elseif game.PlaceId == 9170761016 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Magic-Clicker"))()
 end
