@@ -1,3 +1,3 @@
-    if game.PlaceId == 9551640993 then
+    if game.PlaceId == 9397663086 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Mining-Simulator-2"))()
     end
