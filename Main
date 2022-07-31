@@ -34,7 +34,7 @@ if game.PlaceId == 8884334497 then
     elseif game.PlaceId == 9397663086 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Ninja-Training-Simulator"))()
     
-    elseif game.PlaceId == 6284583030 or 10321372166 then
+    elseif game.PlaceId == 6284583030 or game.PlaceId == 10321372166 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Pet-Simulator-X"))()
     
     elseif game.PlaceId == 8585657145 then
