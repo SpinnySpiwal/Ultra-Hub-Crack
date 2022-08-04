@@ -39,5 +39,8 @@ if game.PlaceId == 8884334497 then
     
     elseif game.PlaceId == 8585657145 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Anime-Hero-Simulator"))()
+    
+    elseif game.PlaceId == 9894044804 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Anime-Hero-Simulator"))()
 
 end
