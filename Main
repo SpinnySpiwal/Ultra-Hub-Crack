@@ -42,5 +42,8 @@ if game.PlaceId == 8884334497 then
     
     elseif game.PlaceId == 9894044804 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Blade-Simulator"))()
+    
+    elseif game.PlaceId == 10108131074 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Mow-The-Lawn"))()
 
 end
