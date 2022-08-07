@@ -1,3 +1,3 @@
-    if game.PlaceId == 8962384769 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Firework-Simulator-Updated"))()
+    if game.PlaceId == 10108131074 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Mow-The-Lawn"))()
     end
