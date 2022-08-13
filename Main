@@ -51,5 +51,4 @@ if game.PlaceId == 8884334497 then
     
     elseif game.PlaceId == 9285238704 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Race-Clicker"))()
-
 end
