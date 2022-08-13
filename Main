@@ -48,5 +48,8 @@ if game.PlaceId == 8884334497 then
     
     elseif game.PlaceId == 286090429 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Arsenal"))()
+    
+    elseif game.PlaceId == 9285238704 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Race-Clicker"))()
 
 end
