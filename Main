@@ -55,4 +55,7 @@ if game.PlaceId == 8884334497 then
     elseif game.PlaceId == 6766156863 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Strongman-Simulator"))()
     
+    elseif game.PlaceId == 10598587051 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaRdoOx/Ultra-Hub/main/Strongman-Simulator"))()
+    
 end
